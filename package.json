@@ -1,0 +1,11 @@
+{
+  "name": "antilhas-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard Sequência Fixa 48h - Antilhas",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.5",
+    "xlsx": "^0.18.5"
+  }
+}
